@@ -1,97 +1,53 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yassine+Lamghari;AI+%2F+ML+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+RL" alt="Typing SVG" />
-</h1>
+<h1 align="center">Yassine Lamghari</h1>
+
+<p align="center">
+  <strong>AI Engineer · LLM / RAG · Data & Backend Systems</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-lamghari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-FF5733?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20To-Work-3FB950?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Casablanca%2C%20Morocco-FF5733?style=for-the-badge&logo=google-maps&logoColor=white" alt="Casablanca, Morocco" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-3FB950?style=for-the-badge" alt="Open to work" />
 </p>
 
----
+## À propos
 
-## 🧠 À propos de moi
+Ingénieur IA spécialisé dans la conception de systèmes intelligents fiables : **LLM, RAG, recherche vectorielle, agents IA, machine learning et architectures data**.
 
-```python
-yassine = {
-    "role":         "AI / ML Engineer",
-    "location":     "Casablanca, Maroc",
-    "domains":      ["Deep Learning", "Computer Vision", "Reinforcement Learning", "NLP / RAG"],
-    "currently":    "LLMs fine-tuning & MLOps pipelines",
-    "fun_fact":     "Je préfère laisser un agent apprendre tout seul 🤖"
-}
-```
+Je travaille de la donnée au déploiement : modélisation, pipelines de traitement, APIs sécurisées, bases de données et services distribués.
 
----
+## Expertise technique
 
-## 🛠️ Stack technique
+| Domaine | Technologies |
+| --- | --- |
+| **IA, LLM & RAG** | LLM, RAG, GraphRAG, NLP, embeddings, recherche vectorielle, agents IA, prompt engineering, LangChain, LlamaIndex, FastEmbed, Mistral, Groq, Gemini, Ollama |
+| **Machine Learning & Computer Vision** | Scikit-learn, PyTorch, TensorFlow, Keras, LSTM, CNN, OpenCV, séries temporelles |
+| **Backend & Architecture** | Python, FastAPI, Pydantic, API REST, microservices, architecture en couches, JWT, idempotence, rate limiting |
+| **Data & Bases de données** | PostgreSQL, pgvector, Neo4j, Redis, SQLite, SQLAlchemy, SQL, NumPy, Pandas, Matplotlib, OpenPyXL |
+| **Data Engineering** | Kafka, Airflow, Spark, Data Warehouse, MinIO |
+| **DevOps & Qualité** | Docker, Docker Compose, Git, GitHub, Pytest, Semgrep, Pylint, Bandit, PySide6/Qt, PyInstaller |
 
-**Langages & Frameworks**
+## Axes de travail
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+- Systèmes RAG et GraphRAG avec récupération de contexte pertinente
+- Agents IA et automatisation de workflows
+- APIs robustes et architectures distribuées
+- Pipelines data, recherche vectorielle et bases de données spécialisées
+- Vision par ordinateur, deep learning et prévision de séries temporelles
 
-**Outils**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🚀 Projets phares
+## Projets sélectionnés
 
 | Projet | Description | Technologies |
-|--------|-------------|-------------|
-| [📈 forex-timeseries-prediction](https://github.com/yassine-Lamghari/forex-timeseries-prediction) | Prédiction EUR/USD via LSTM + Alpha Vantage | Python, LSTM, Time Series |
-| [👁 cheating-for-computer-vision](https://github.com/yassine-Lamghari/cheating-for-computer-vision) | Détection de triche en temps réel | Python, OpenCV, CV |
-| [🎮 GridWorld-RL](https://github.com/yassine-Lamghari/GridWorld-RL) | Q-Learning & Deep Q-Learning | Python, RL, DQN |
-| [🕹 Pacman-RL](https://github.com/yassine-Lamghari/Projet-Reinforcement-Learning-Pacman-Gridworld) | RL appliqué à Pacman | Python, Q-Learning |
-| [💬 chatrag](https://github.com/yassine-Lamghari/chatrag) | Chatbot RAG (Retrieval-Augmented Generation) | Python, LLM, RAG |
-| [🏥 SmartHealth](https://github.com/yassine-Lamghari/SmartHealth) | Application de santé intelligente | Python |
-| [✍️ correcteur-IA](https://github.com/yassine-Lamghari/correcteur-IA) | Correcteur automatique IA | Python, NLP |
+| --- | --- | ---|
+| [forex-timeseries-prediction](https://github.com/yassine-Lamghari/forex-timeseries-prediction) | Prédiction EUR/USD à partir de séries temporelles. | Python, LSTM, Time Series |
+| [cheating-for-computer-vision](https://github.com/yassine-Lamghari/cheating-for-computer-vision) | Détection de triche en temps réel par vision par ordinateur. | Python, OpenCV, Computer Vision |
+| [GridWorld-RL](https://github.com/yassine-Lamghari/GridWorld-RL) | Implémentation de Q-Learning et Deep Q-Learning. | Python, Reinforcement Learning |
+| [Projet-Reinforcement-Learning-Pacman-Gridworld](https://github.com/yassine-Lamghari/Projet-Reinforcement-Learning-Pacman-Gridworld) | Apprentissage par renforcement appliqué à Pacman. | Python, Q-Learning |
+| [chatrag](https://github.com/yassine-Lamghari/chatrag) | Chatbot basé sur la génération augmentée par récupération. | Python, LLM, RAG |
+| [correcteur-IA](https://github.com/yassine-Lamghari/correcteur-IA) | Correcteur automatique fondé sur des méthodes NLP. | Python, NLP |
 
----
+## Contact
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-Lamghari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-Lamghari&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-Lamghari&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## 🎯 Domaines d'expertise
-
-```
-Computer Vision        ████████████████░░░░  80%
-Deep Learning          ███████████████░░░░░  75%
-Reinforcement Learning ████████████░░░░░░░░  60%
-NLP / RAG              ██████████░░░░░░░░░░  50%
-MLOps                  ███████░░░░░░░░░░░░░  35%
-```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yassine-Lamghari&color=58a6ff&style=flat-square&label=Profile+views"/>
-</p>
-
-<p align="center">
-  <em>« L'intelligence artificielle est l'outil ; la créativité humaine est le moteur. »</em>
-</p>
+[LinkedIn](https://www.linkedin.com/in/yassine-lamghari) · [GitHub](https://github.com/yassine-Lamghari)
